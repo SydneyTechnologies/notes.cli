@@ -1,6 +1,7 @@
 # Project Overview 🚀
 
-Welcome to our **notes.cli project**! This interactive demo explores the power of **Commander** to create a notes application and how to publish a package on npm.
+Welcome to our **notes.shell project**! This interactive demo explores the power of **Commander** to create a notes application and how to publish a package on npm.
+
 ## Objective 🎯
 
 Our mission is to create a robust **CLI application** that manages **user notes** efficiently. Users can **add**, **list**, and **remove** notes seamlessly from the command line, enhancing productivity and organization.
@@ -8,7 +9,6 @@ Our mission is to create a robust **CLI application** that manages **user notes*
 ## Key Highlights ✨
 
 - **Explore Commander**: Master the simplicity of **Commander** to create intuitive command-line interactions.
-  
 - **Manage User Notes**: Add, list, and remove notes effortlessly, enhancing organization and workflow.
 
 - **Publishing on npm**: Dive into the intricacies of **npm publishing**, understanding versioning, dependencies, and best practices.
