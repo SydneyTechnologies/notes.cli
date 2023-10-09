@@ -15,4 +15,4 @@ Our mission is to create a robust **CLI application** that manages **user notes*
 
 ## Why it Matters 💡
 
-Understanding CLI application development is vital in today's tech landscape. CLI tools streamline tasks, automate workflows, and boost productivity. Join us in this hands-on journey, combining the prowess of **Commander** with the practicality of managing user notes through the command line! 🌟
+Understanding CLI application development is vital in today's tech landscape. CLI tools streamline tasks, automate workflows, and boost productivity. You may use this project as you like!!!
