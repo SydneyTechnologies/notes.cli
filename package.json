@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "notes.shell",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Welcome to our **notes.shell project**! This interactive demo explores the power of **Commander** to create a notes application and how to publish a package on npm. ## Objective 🎯",
   
   "bin":{
