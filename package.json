@@ -1,13 +1,12 @@
 {
-  "type": "module",
   "name": "notes.shell",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "Welcome to our **notes.shell project**! This interactive demo explores the power of **Commander** to create a notes application and how to publish a package on npm. ## Objective 🎯",
-  
-  "bin":{
-    "notes": "./index.js"
+  "bin": {
+    "notes": "./src/index.js"
   },
   "scripts": {
+    "build": "pkg . --targets node14-linux-x64,node14-win-x64,node14-macos-x64  -o ./builds/notes",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^11.0.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
   }
 }
