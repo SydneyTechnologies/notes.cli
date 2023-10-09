@@ -1,9 +1,7 @@
-// Application imports
-
-import * as os from "os"; // Importing os
-import fs from "fs"; // Importing fs (file system)
-import * as path from "path"; // Importing path
-import { program } from "commander"; // Importing commander
+import * as os from "os";
+import fs from "fs";
+import * as path from "path";
+import { program } from "commander";
 import { spawn } from "child_process";
 import {
   createFolder,
@@ -11,8 +9,7 @@ import {
   exists,
   createFile,
   appendToFile,
-} from "./utils.js"; // Importing createFolder function from utils.js
-
+} from "./utils.js";
 const PROJECT_NAME = "notes.cli";
 
 program
