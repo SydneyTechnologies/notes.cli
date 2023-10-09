@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "notes.cli",
+  "version": "1.0.0",
+  "description": "Welcome to our **notes.cli project**! This interactive demo explores the power of **Commander** to create a notes application and how to publish a package on npm. ## Objective 🎯",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
