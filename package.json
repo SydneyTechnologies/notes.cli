@@ -1,9 +1,12 @@
 {
   "type": "module",
   "name": "notes.shell",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Welcome to our **notes.shell project**! This interactive demo explores the power of **Commander** to create a notes application and how to publish a package on npm. ## Objective 🎯",
-  "main": "index.js",
+  
+  "bin":{
+    "notes": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
